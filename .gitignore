@@ -1,0 +1,8 @@
+# Ignore .env file containing secrets
+.env
+
+# Other files/directories to ignore
+__pycache__/
+*.pyc
+.vscode/
+

@@ -1,0 +1,1 @@
+We can create a public token and get access to fake account information
